@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Prior to August 2020 I had very basic technical and computer knowledge. I was offered an opportunity to learn an introduction to coding thanks to a developer, who would become my mentor. Through this, I fostered the beginnings of understanding code and programming. Primary learnings have been with Ruby (no Rails), with introductions to HTML and CSS, and a focus on thinking logically about how a computer reads code.
+
 <!--
 **mikeackison/mikeackison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
