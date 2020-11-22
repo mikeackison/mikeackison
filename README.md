@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- I have decided it's not too late, and am to learning how to become a delevoper. Before this, I have worked as a Chef for years; cooking for the all sorts of folks from the likes of Snopp Dogg, to Margaret Atwood.
+- I have decided it's not too late, and am to learning how to become a delevoper. Before this, I have worked as a Chef for years; cooking for all sorts of folks; from the likes of Snopp Dogg, to Margaret Atwood. I have an endless desire to learn, and a sense of humour as sharp as a Chef’s knife. 
 - Prior to August 2020 I had very basic technical and computer knowledge. Thanks to a developer, who has become my mentor, I was offered an opportunity to learn an introduction to coding. Through this, I fostered the beginnings of understanding code and programming. Primary learnings have been with Ruby (no Rails), with introductions to HTML and CSS, and a focus on thinking logically about how a computer reads code.
 
--I used to fancy myself quite the DJ.
+- I used to fancy myself quite the DJ.
 
 <!--
 **mikeackison/mikeackison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
