@@ -3,6 +3,8 @@
 - I have decided it's not too late, and am to learning how to code to become a developer. Before this, I have worked as a Chef for years, and have cooked for all sorts of folks; from Snopp Dogg to Margaret Atwood. I have an endless desire to learn, and a sense of humour as sharp as a Chef’s knife. 
 - Prior to August 2020 I had very basic technical and computer knowledge. Thanks to a developer, who has become my mentor, I was offered an opportunity to learn an introduction to coding. Through this, I fostered the beginnings of understanding code and programming. Primary learnings have been with Ruby (no Rails), with introductions to HTML and CSS, and a focus on thinking logically about how a computer reads code.
 
+- Since January 2021 I have been enrolled in Lighthouse Labs Web Developer Bootcamp where I have Learned the essentials of JavaScript and Node.js, database and data modeling, HTML, CSS, software architecture and react JS, ruby on rails, and testing, while developing team skills including pair programming, collaboration and version control.
+
 - I used to fancy myself quite the DJ.
 
 <!--
